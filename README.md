@@ -2,6 +2,9 @@
 
 This project implements a **real-time product monitoring system** using machine learning to **count objects** on a conveyor belt and **detect defects**. Built with **YOLOv8 segmentation models**, it ensures quality control by detecting, tracking, and analyzing products as they move along the belt.
 
+Google drive for videos and dataset:
+https://drive.google.com/drive/folders/1myRSzQj-QJPx75mNUxolewzxlyu_ikZ4?usp=sharing
+
 ---
 
 ## Features
